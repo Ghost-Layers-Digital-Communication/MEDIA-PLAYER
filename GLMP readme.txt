@@ -68,4 +68,6 @@ Author:
 
 License:
   Private use only. Contact author for redistribution.
+  Bryankhilliard@gmail.com
+
 +------------------------------------------------------------+
